@@ -1,6 +1,10 @@
 # rest_api_example
 
-A new Flutter project.
+A new Flutter project that shows how to retrieve data from network and display it on UI with **HTTP** package.
+you can watch the episode on **YouTube**,[Explained in Arabic] link: https://youtu.be/7oOuNczKti4
+
+![httpThum](https://user-images.githubusercontent.com/36349126/200892617-83c8b468-423f-424c-9314-a9a18bea1777.png)
+
 
 ## Getting Started
 
